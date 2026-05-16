@@ -1,0 +1,4 @@
+# Graphify 输出文件 - 只提交 Markdown 文档
+# 忽略数据文件和生成的 HTML
+*.json
+*.html
